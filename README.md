@@ -1,6 +1,16 @@
 # Ghyd Study
 
-An educational website for sharing study materials and making concepts in Calculus and Computer Science easier to understand and review.
+A personal educational website created and owned by **Ghaida Mohammed**, where I share my own explanations and study materials in Calculus and Computer Science.
+
+## About the Project
+
+I built Ghyd Study to make academic concepts clearer and easier to review. Alongside developing the website, I prepare and present the educational explanations, organize the study materials, and manage the platform.
+
+## My Role
+
+- **Founder & Owner** — Created the project and manage its direction.
+- **Developer** — Built and maintain the website.
+- **Educational Content Creator** — Prepare and deliver my own explanations to help students understand the material.
 
 ## Live Website
 
@@ -8,9 +18,9 @@ An educational website for sharing study materials and making concepts in Calcul
 
 ## About This Repository
 
-This repository showcases Ghyd Study through its project overview and screenshots. The application source code is maintained privately and is not included here.
+This repository presents an overview of Ghyd Study. The application source code is maintained privately and is not included here.
 
-## Created By
+## Connect
 
 **Ghaida Mohammed**  
 Information Technology student at Taif University.
