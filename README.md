@@ -1,6 +1,6 @@
 # Ghyd Study
 
-A personal educational website created and owned by **Ghaida Mohammed**, where I share my own explanations and study materials in Calculus and Computer Science.
+A personal educational website created and owned by **Ghaida Mohammed**, where I share my own explanations and study materials in Maths and Computer Science.
 
 ## About the Project
 
